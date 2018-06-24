@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="employee" max_length="40" name="x_58872_needit_employee" type="collection">
+        <element display="true" label="first name" max_length="40" name="first_name" type="integer"/>
+        <element label="New Date/Time" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
+    </element>
+</database>
